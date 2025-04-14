@@ -1,0 +1,2087 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rhinofightgear.uk/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rhinofightgear.uk/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rhinofightgear.uk/collections/all.atom"/>
+  <title>Rhino FightGear UK</title>
+  <updated>2025-04-04T03:06:23-04:00</updated>
+  <author>
+    <name>Rhino FightGear UK</name>
+  </author>
+  <entry>
+    <id>https://rhinofightgear.uk/products/10016195510610</id>
+    <published>2025-04-04T03:06:23-04:00</published>
+    <updated>2025-04-04T03:06:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://rhinofightgear.uk/products/shin-guards-muaythai"/>
+    <title>SHIN GUARDS - MUAY THAI</title>
+    <s:type></s:type>
+    <s:vendor>Rhino FightGear UK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0955/5817/3010/files/ShinGuards-RedRhinoFightGear.png?v=1743850649"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rhino FightGear UK<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            159.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016195510610</id>
+      <title>Red / S</title>
+      <s:price currency="GBP">159.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016195510610</id>
+      <title>Red / M</title>
+      <s:price currency="GBP">159.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016195510610</id>
+      <title>Red / L</title>
+      <s:price currency="GBP">159.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016195510610</id>
+      <title>Red / XL</title>
+      <s:price currency="GBP">159.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016195510610</id>
+      <title>Pink / S</title>
+      <s:price currency="GBP">159.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016195510610</id>
+      <title>Pink / M</title>
+      <s:price currency="GBP">159.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016195510610</id>
+      <title>Pink / L</title>
+      <s:price currency="GBP">159.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016195510610</id>
+      <title>Blue / S</title>
+      <s:price currency="GBP">159.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016195510610</id>
+      <title>Blue / M</title>
+      <s:price currency="GBP">159.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016195510610</id>
+      <title>Blue / L</title>
+      <s:price currency="GBP">159.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016195510610</id>
+      <title>Cyan / S</title>
+      <s:price currency="GBP">159.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016195510610</id>
+      <title>Pink / XL</title>
+      <s:price currency="GBP">159.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016195510610</id>
+      <title>Blue / XL</title>
+      <s:price currency="GBP">159.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016195510610</id>
+      <title>Cyan / M</title>
+      <s:price currency="GBP">159.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016195510610</id>
+      <title>Cyan / L</title>
+      <s:price currency="GBP">159.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016195510610</id>
+      <title>Cyan / XL</title>
+      <s:price currency="GBP">159.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rhinofightgear.uk/products/10016195150162</id>
+    <published>2025-04-04T03:03:49-04:00</published>
+    <updated>2025-04-04T03:03:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://rhinofightgear.uk/products/shin-guards-1"/>
+    <title>SHIN GUARDS - PRO</title>
+    <s:type></s:type>
+    <s:vendor>Rhino FightGear UK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0955/5817/3010/files/ShinGuardsPro-Red_BlackRhinoFightGear.png?v=1743850733"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rhino FightGear UK<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            139.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016195150162</id>
+      <title>Red / S</title>
+      <s:price currency="GBP">139.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016195150162</id>
+      <title>Red / M</title>
+      <s:price currency="GBP">139.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016195150162</id>
+      <title>Red / L</title>
+      <s:price currency="GBP">139.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016195150162</id>
+      <title>Red / XL</title>
+      <s:price currency="GBP">139.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016195150162</id>
+      <title>Blue / S</title>
+      <s:price currency="GBP">139.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016195150162</id>
+      <title>Blue / M</title>
+      <s:price currency="GBP">139.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016195150162</id>
+      <title>Blue / L</title>
+      <s:price currency="GBP">139.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016195150162</id>
+      <title>Blue / XL</title>
+      <s:price currency="GBP">139.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rhinofightgear.uk/products/10016195019090</id>
+    <published>2025-04-04T03:02:18-04:00</published>
+    <updated>2025-04-04T03:02:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://rhinofightgear.uk/products/shin-guards"/>
+    <title>SHIN GUARDS - SOFT</title>
+    <s:type></s:type>
+    <s:vendor>Rhino FightGear UK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0955/5817/3010/files/ShinGuardsSoft-BlueRhinoFightGear.png?v=1743850930"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rhino FightGear UK<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016195019090</id>
+      <title>Red / S</title>
+      <s:price currency="GBP">49.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016195019090</id>
+      <title>Red / M</title>
+      <s:price currency="GBP">49.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016195019090</id>
+      <title>Red / L</title>
+      <s:price currency="GBP">49.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016195019090</id>
+      <title>Blue / S</title>
+      <s:price currency="GBP">49.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016195019090</id>
+      <title>Blue / M</title>
+      <s:price currency="GBP">49.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016195019090</id>
+      <title>Blue / L</title>
+      <s:price currency="GBP">49.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rhinofightgear.uk/products/10016192266578</id>
+    <published>2025-04-04T02:47:02-04:00</published>
+    <updated>2025-04-04T02:47:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://rhinofightgear.uk/products/boxing-gloves"/>
+    <title>BOXING GLOVES</title>
+    <s:type></s:type>
+    <s:vendor>Rhino FightGear UK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0955/5817/3010/files/Boxing-Hatch_BlackRhinoFightGear.png?v=1743839295"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rhino FightGear UK<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            100.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016192266578</id>
+      <title>Black/Gold / 12oz</title>
+      <s:price currency="GBP">100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016192266578</id>
+      <title>Black/Gold / 16oz</title>
+      <s:price currency="GBP">100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016192266578</id>
+      <title>Gold/Black / 12oz</title>
+      <s:price currency="GBP">100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016192266578</id>
+      <title>Gold/Black / 16oz</title>
+      <s:price currency="GBP">100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016192266578</id>
+      <title>Gray/White / 12oz</title>
+      <s:price currency="GBP">100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016192266578</id>
+      <title>Gray/White / 16oz</title>
+      <s:price currency="GBP">100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016192266578</id>
+      <title>White/Gold / 16oz</title>
+      <s:price currency="GBP">100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016192266578</id>
+      <title>Silver / 16oz</title>
+      <s:price currency="GBP">100.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016192266578</id>
+      <title>Black/Hatch / 16oz</title>
+      <s:price currency="GBP">100.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016192266578</id>
+      <title>Blue/White / 10oz</title>
+      <s:price currency="GBP">100.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016192266578</id>
+      <title>Blue/White / 12oz</title>
+      <s:price currency="GBP">100.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016192266578</id>
+      <title>Blue/White / 16oz</title>
+      <s:price currency="GBP">100.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016192266578</id>
+      <title>Red/White / 10oz</title>
+      <s:price currency="GBP">100.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016192266578</id>
+      <title>Red/White / 12oz</title>
+      <s:price currency="GBP">100.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016192266578</id>
+      <title>Red/White / 16oz</title>
+      <s:price currency="GBP">100.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rhinofightgear.uk/products/10016191807826</id>
+    <published>2025-04-04T02:42:48-04:00</published>
+    <updated>2025-04-04T02:42:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://rhinofightgear.uk/products/muaythai-gloves"/>
+    <title>MUAYTHAI GLOVES</title>
+    <s:type></s:type>
+    <s:vendor>Rhino FightGear UK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0955/5817/3010/files/MuayThaiGlovesBlueRhinoUK.png?v=1743837460"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rhino FightGear UK<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            100.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016191807826</id>
+      <title>Blue / 10oz</title>
+      <s:price currency="GBP">100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016191807826</id>
+      <title>Blue / 12oz</title>
+      <s:price currency="GBP">100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016191807826</id>
+      <title>Blue / 14oz</title>
+      <s:price currency="GBP">100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016191807826</id>
+      <title>Blue / 16oz</title>
+      <s:price currency="GBP">100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016191807826</id>
+      <title>Red / 12oz</title>
+      <s:price currency="GBP">100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016191807826</id>
+      <title>Red / 14oz</title>
+      <s:price currency="GBP">100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016191807826</id>
+      <title>Red / 16oz</title>
+      <s:price currency="GBP">100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016191807826</id>
+      <title>Pink / 10oz</title>
+      <s:price currency="GBP">100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016191807826</id>
+      <title>Pink / 12oz</title>
+      <s:price currency="GBP">100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016191807826</id>
+      <title>Pink / 14oz</title>
+      <s:price currency="GBP">100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016191807826</id>
+      <title>Pink / 16oz</title>
+      <s:price currency="GBP">100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016191807826</id>
+      <title>Cyan / 10oz</title>
+      <s:price currency="GBP">100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016191807826</id>
+      <title>Cyan / 12oz</title>
+      <s:price currency="GBP">100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016191807826</id>
+      <title>Cyan / 14oz</title>
+      <s:price currency="GBP">100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016191807826</id>
+      <title>Cyan / 16oz</title>
+      <s:price currency="GBP">100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016191807826</id>
+      <title>Red / 10oz</title>
+      <s:price currency="GBP">100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rhinofightgear.uk/products/10016191119698</id>
+    <published>2025-04-04T02:38:31-04:00</published>
+    <updated>2025-04-04T02:38:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://rhinofightgear.uk/products/boxing-gloves-for-boxing-long-design"/>
+    <title>BOXING GLOVES - LONG DESIGN</title>
+    <s:type></s:type>
+    <s:vendor>Rhino FightGear UK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0955/5817/3010/files/BoxingGloves-White_RedRhinoFightGear.png?v=1743863998"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rhino FightGear UK<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            199.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016191119698</id>
+      <title>Red / 12oz</title>
+      <s:price currency="GBP">199.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016191119698</id>
+      <title>Red / 16oz</title>
+      <s:price currency="GBP">199.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016191119698</id>
+      <title>Black/Gold / 12oz</title>
+      <s:price currency="GBP">199.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016191119698</id>
+      <title>White/Gold / 12oz</title>
+      <s:price currency="GBP">199.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016191119698</id>
+      <title>White/Red / 12oz</title>
+      <s:price currency="GBP">199.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016191119698</id>
+      <title>White/Black / 12oz</title>
+      <s:price currency="GBP">199.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016191119698</id>
+      <title>Black/Gold / 16oz</title>
+      <s:price currency="GBP">199.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016191119698</id>
+      <title>White/Gold / 16oz</title>
+      <s:price currency="GBP">199.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016191119698</id>
+      <title>White/Black / 16oz</title>
+      <s:price currency="GBP">199.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016191119698</id>
+      <title>White/Red / 16oz</title>
+      <s:price currency="GBP">199.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rhinofightgear.uk/products/10016190628178</id>
+    <published>2025-04-04T02:34:31-04:00</published>
+    <updated>2025-04-04T02:34:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://rhinofightgear.uk/products/rashies-compression-for-mma-sleevless"/>
+    <title>RASHIES : COMPRESSION FOR MMA SLEEVLESS</title>
+    <s:type></s:type>
+    <s:vendor>Rhino FightGear UK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0955/5817/3010/files/121212.png?v=1743748397"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rhino FightGear UK<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            89.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016190628178</id>
+      <title>Black/Red / M</title>
+      <s:price currency="GBP">89.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016190628178</id>
+      <title>Black/Red / L</title>
+      <s:price currency="GBP">89.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016190628178</id>
+      <title>Black/Red / XL</title>
+      <s:price currency="GBP">89.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016190628178</id>
+      <title>Black/White / M</title>
+      <s:price currency="GBP">89.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016190628178</id>
+      <title>Black/White / L</title>
+      <s:price currency="GBP">89.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016190628178</id>
+      <title>Black/White / XL</title>
+      <s:price currency="GBP">89.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rhinofightgear.uk/products/10016190300498</id>
+    <published>2025-04-04T02:31:14-04:00</published>
+    <updated>2025-04-04T02:31:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://rhinofightgear.uk/products/compression-shorts-mma"/>
+    <title>COMPRESSION SHORTS (MMA)</title>
+    <s:type></s:type>
+    <s:vendor>Rhino FightGear UK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0955/5817/3010/files/Pict1212ure1.png?v=1743748194"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rhino FightGear UK<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            89.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016190300498</id>
+      <title>Black/Red / M</title>
+      <s:price currency="GBP">89.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016190300498</id>
+      <title>Black/Red / L</title>
+      <s:price currency="GBP">89.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016190300498</id>
+      <title>Black/Red / XL</title>
+      <s:price currency="GBP">89.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016190300498</id>
+      <title>Black/White / M</title>
+      <s:price currency="GBP">89.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016190300498</id>
+      <title>Black/White / L</title>
+      <s:price currency="GBP">89.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016190300498</id>
+      <title>Black/White / XL</title>
+      <s:price currency="GBP">89.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016190300498</id>
+      <title>Black / M</title>
+      <s:price currency="GBP">89.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016190300498</id>
+      <title>Black / L</title>
+      <s:price currency="GBP">89.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016190300498</id>
+      <title>Black / XL</title>
+      <s:price currency="GBP">89.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rhinofightgear.uk/products/10016189776210</id>
+    <published>2025-04-04T02:27:52-04:00</published>
+    <updated>2025-04-04T02:27:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://rhinofightgear.uk/products/muaythai-shorts"/>
+    <title>MUAYTHAI SHORTS</title>
+    <s:type></s:type>
+    <s:vendor>Rhino FightGear UK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0955/5817/3010/files/P1dssicture1.png?v=1743747289"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rhino FightGear UK<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            89.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016189776210</id>
+      <title>White/Pink / S</title>
+      <s:price currency="GBP">89.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016189776210</id>
+      <title>White/Pink / M</title>
+      <s:price currency="GBP">89.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016189776210</id>
+      <title>White/Pink / L</title>
+      <s:price currency="GBP">89.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016189776210</id>
+      <title>White/Pink / XL</title>
+      <s:price currency="GBP">89.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016189776210</id>
+      <title>White/Pink / 2XL</title>
+      <s:price currency="GBP">89.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016189776210</id>
+      <title>Black/Red / S</title>
+      <s:price currency="GBP">89.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016189776210</id>
+      <title>Black/Red / M</title>
+      <s:price currency="GBP">89.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016189776210</id>
+      <title>Black/Red / L</title>
+      <s:price currency="GBP">89.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016189776210</id>
+      <title>Black/Red / XL</title>
+      <s:price currency="GBP">89.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016189776210</id>
+      <title>Black/Red / 2XL</title>
+      <s:price currency="GBP">89.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016189776210</id>
+      <title>Black/Gold / S</title>
+      <s:price currency="GBP">89.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016189776210</id>
+      <title>Black/Gold / L</title>
+      <s:price currency="GBP">89.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016189776210</id>
+      <title>Black/Gold / XL</title>
+      <s:price currency="GBP">89.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016189776210</id>
+      <title>Black/Gold / 2XL</title>
+      <s:price currency="GBP">89.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016189776210</id>
+      <title>White/Red / S</title>
+      <s:price currency="GBP">89.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016189776210</id>
+      <title>White/Red / M</title>
+      <s:price currency="GBP">89.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016189776210</id>
+      <title>White/Red / L</title>
+      <s:price currency="GBP">89.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016189776210</id>
+      <title>White/Red / XL</title>
+      <s:price currency="GBP">89.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016189776210</id>
+      <title>White/Red / 2XL</title>
+      <s:price currency="GBP">89.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016189776210</id>
+      <title>Black / M</title>
+      <s:price currency="GBP">89.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016189776210</id>
+      <title>Black / L</title>
+      <s:price currency="GBP">89.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016189776210</id>
+      <title>Black / XL</title>
+      <s:price currency="GBP">89.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016189776210</id>
+      <title>Black / 2XL</title>
+      <s:price currency="GBP">89.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016189776210</id>
+      <title>Black/White / S</title>
+      <s:price currency="GBP">89.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016189776210</id>
+      <title>Black/White / M</title>
+      <s:price currency="GBP">89.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016189776210</id>
+      <title>Black/White / L</title>
+      <s:price currency="GBP">89.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016189776210</id>
+      <title>Black/White / XL</title>
+      <s:price currency="GBP">89.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016189776210</id>
+      <title>Black/White / 2XL</title>
+      <s:price currency="GBP">89.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016189776210</id>
+      <title>White / 2XL</title>
+      <s:price currency="GBP">89.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016189776210</id>
+      <title>Black/Orange / S</title>
+      <s:price currency="GBP">89.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016189776210</id>
+      <title>Black/Orange / M</title>
+      <s:price currency="GBP">89.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016189776210</id>
+      <title>Black/Orange / L</title>
+      <s:price currency="GBP">89.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016189776210</id>
+      <title>Black/Orange / XL</title>
+      <s:price currency="GBP">89.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016189776210</id>
+      <title>Black/Orange / 2XL</title>
+      <s:price currency="GBP">89.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016189776210</id>
+      <title>Red/White / S</title>
+      <s:price currency="GBP">89.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016189776210</id>
+      <title>Red/White / M</title>
+      <s:price currency="GBP">89.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016189776210</id>
+      <title>Red/White / L</title>
+      <s:price currency="GBP">89.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016189776210</id>
+      <title>Red/White / XL</title>
+      <s:price currency="GBP">89.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016189776210</id>
+      <title>Red/White / 2XL</title>
+      <s:price currency="GBP">89.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016189776210</id>
+      <title>Purple/White / S</title>
+      <s:price currency="GBP">89.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rhinofightgear.uk/products/10016188498258</id>
+    <published>2025-04-04T02:11:09-04:00</published>
+    <updated>2025-04-04T02:11:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://rhinofightgear.uk/products/hoddies-with-zipp"/>
+    <title>HODDIES ( WITH ZIPP)</title>
+    <s:type></s:type>
+    <s:vendor>Rhino FightGear UK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0955/5817/3010/files/Pi12cture1.png?v=1743746844"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rhino FightGear UK<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            99.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016188498258</id>
+      <title>Black/Red / XS</title>
+      <s:price currency="GBP">99.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016188498258</id>
+      <title>Black/Red / S</title>
+      <s:price currency="GBP">99.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016188498258</id>
+      <title>Black/Red / M</title>
+      <s:price currency="GBP">99.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016188498258</id>
+      <title>Black/Red / L</title>
+      <s:price currency="GBP">99.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016188498258</id>
+      <title>Black/Red / XL</title>
+      <s:price currency="GBP">99.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016188498258</id>
+      <title>Black/Red / 2XL</title>
+      <s:price currency="GBP">99.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016188498258</id>
+      <title>White / S</title>
+      <s:price currency="GBP">99.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016188498258</id>
+      <title>White / M</title>
+      <s:price currency="GBP">99.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016188498258</id>
+      <title>White / L</title>
+      <s:price currency="GBP">99.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016188498258</id>
+      <title>White / XL</title>
+      <s:price currency="GBP">99.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016188498258</id>
+      <title>White / 2XL</title>
+      <s:price currency="GBP">99.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016188498258</id>
+      <title>White / 3XL</title>
+      <s:price currency="GBP">99.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016188498258</id>
+      <title>Navy/White / XS</title>
+      <s:price currency="GBP">99.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016188498258</id>
+      <title>Navy/White / S</title>
+      <s:price currency="GBP">99.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016188498258</id>
+      <title>Navy/White / M</title>
+      <s:price currency="GBP">99.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016188498258</id>
+      <title>Navy/White / L</title>
+      <s:price currency="GBP">99.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016188498258</id>
+      <title>Navy/White / XL</title>
+      <s:price currency="GBP">99.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016188498258</id>
+      <title>Navy/White / 2XL</title>
+      <s:price currency="GBP">99.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016188498258</id>
+      <title>Navy/White / 3XL</title>
+      <s:price currency="GBP">99.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016188498258</id>
+      <title>Black / XS</title>
+      <s:price currency="GBP">99.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016188498258</id>
+      <title>Black / S</title>
+      <s:price currency="GBP">99.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016188498258</id>
+      <title>Black / L</title>
+      <s:price currency="GBP">99.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016188498258</id>
+      <title>Black / XL</title>
+      <s:price currency="GBP">99.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016188498258</id>
+      <title>Black / 2XL</title>
+      <s:price currency="GBP">99.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016188498258</id>
+      <title>Black / 3XL</title>
+      <s:price currency="GBP">99.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016188498258</id>
+      <title>Red / XS</title>
+      <s:price currency="GBP">99.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016188498258</id>
+      <title>Red / S</title>
+      <s:price currency="GBP">99.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016188498258</id>
+      <title>Red / M</title>
+      <s:price currency="GBP">99.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016188498258</id>
+      <title>Red / L</title>
+      <s:price currency="GBP">99.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016188498258</id>
+      <title>Red / XL</title>
+      <s:price currency="GBP">99.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016188498258</id>
+      <title>Red / 2XL</title>
+      <s:price currency="GBP">99.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016188498258</id>
+      <title>Red / 3XL</title>
+      <s:price currency="GBP">99.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rhinofightgear.uk/products/10016186499410</id>
+    <published>2025-04-04T01:52:10-04:00</published>
+    <updated>2025-04-04T01:52:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://rhinofightgear.uk/products/hoddies-standard"/>
+    <title>HODDIES (STANDARD)</title>
+    <s:type></s:type>
+    <s:vendor>Rhino FightGear UK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0955/5817/3010/files/Pict21ure1.png?v=1743745888"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rhino FightGear UK<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            89.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>100% Hand made</p>
+<p>Rhino printed logos</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016186499410</id>
+      <title>Red / S</title>
+      <s:price currency="GBP">89.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016186499410</id>
+      <title>Red / M</title>
+      <s:price currency="GBP">89.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016186499410</id>
+      <title>Red / L</title>
+      <s:price currency="GBP">89.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016186499410</id>
+      <title>White / XS</title>
+      <s:price currency="GBP">89.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016186499410</id>
+      <title>White / S</title>
+      <s:price currency="GBP">89.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016186499410</id>
+      <title>White / M</title>
+      <s:price currency="GBP">89.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016186499410</id>
+      <title>White / L</title>
+      <s:price currency="GBP">89.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016186499410</id>
+      <title>White / XL</title>
+      <s:price currency="GBP">89.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016186499410</id>
+      <title>White / 2XL</title>
+      <s:price currency="GBP">89.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016186499410</id>
+      <title>White / 3XL</title>
+      <s:price currency="GBP">89.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016186499410</id>
+      <title>Balck / S</title>
+      <s:price currency="GBP">89.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016186499410</id>
+      <title>Balck / M</title>
+      <s:price currency="GBP">89.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016186499410</id>
+      <title>Balck / L</title>
+      <s:price currency="GBP">89.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016186499410</id>
+      <title>Balck / XL</title>
+      <s:price currency="GBP">89.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016186499410</id>
+      <title>Balck / 2XL</title>
+      <s:price currency="GBP">89.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016186499410</id>
+      <title>Balck / 3XL</title>
+      <s:price currency="GBP">89.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016186499410</id>
+      <title>Navy / XS</title>
+      <s:price currency="GBP">89.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016186499410</id>
+      <title>Navy / S</title>
+      <s:price currency="GBP">89.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016186499410</id>
+      <title>Navy / M</title>
+      <s:price currency="GBP">89.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016186499410</id>
+      <title>Navy / L</title>
+      <s:price currency="GBP">89.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016186499410</id>
+      <title>Navy / XL</title>
+      <s:price currency="GBP">89.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016186499410</id>
+      <title>Navy / 2XL</title>
+      <s:price currency="GBP">89.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016186499410</id>
+      <title>Navy / 3XL</title>
+      <s:price currency="GBP">89.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016186499410</id>
+      <title>Black/Red / S</title>
+      <s:price currency="GBP">89.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rhinofightgear.uk/products/10016186204498</id>
+    <published>2025-04-04T01:49:50-04:00</published>
+    <updated>2025-04-04T01:49:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://rhinofightgear.uk/products/hand-wraps"/>
+    <title>HAND WRAPS</title>
+    <s:type></s:type>
+    <s:vendor>Rhino FightGear UK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0955/5817/3010/files/21Pictu2re1.png?v=1743745690"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rhino FightGear UK<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Great protection for your hands and wrist<br>
+</li>
+<li>Resistant and stretchable material</li>
+<li>Attached thumb</li>
+<li>Velcro strap closing system</li>
+<li>Available in Black, Blue, Red and White</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016186204498</id>
+      <title>3 MTS / Pink</title>
+      <s:price currency="GBP">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016186204498</id>
+      <title>3 MTS / Blue</title>
+      <s:price currency="GBP">25.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016186204498</id>
+      <title>3 MTS / Red</title>
+      <s:price currency="GBP">25.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016186204498</id>
+      <title>4.5 MTS / Pink</title>
+      <s:price currency="GBP">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016186204498</id>
+      <title>4.5 MTS / Blue</title>
+      <s:price currency="GBP">25.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016186204498</id>
+      <title>4.5 MTS / Red</title>
+      <s:price currency="GBP">25.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rhinofightgear.uk/products/10016185876818</id>
+    <published>2025-04-04T01:45:59-04:00</published>
+    <updated>2025-04-04T01:45:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://rhinofightgear.uk/products/quick-wraps"/>
+    <title>QUICK WRAPS</title>
+    <s:type></s:type>
+    <s:vendor>Rhino FightGear UK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0955/5817/3010/files/Pictu2re1.png?v=1743745512"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rhino FightGear UK<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Printed Rhino logos</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016185876818</id>
+      <title>M</title>
+      <s:price currency="GBP">35.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016185876818</id>
+      <title>L</title>
+      <s:price currency="GBP">35.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016185876818</id>
+      <title>XL</title>
+      <s:price currency="GBP">35.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rhinofightgear.uk/products/10016185418066</id>
+    <published>2025-04-04T01:34:15-04:00</published>
+    <updated>2025-04-04T01:34:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://rhinofightgear.uk/products/groin-guardmale-for-mma-tkd-karate-etc"/>
+    <title>GROIN GUARD(MALE) ( FOR MMA\TKD\KARATE\ETC)</title>
+    <s:type></s:type>
+    <s:vendor>Rhino FightGear UK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0955/5817/3010/files/Pict2ure1.png?v=1743744766"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rhino FightGear UK<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>High resilience foam provides bounce back quality</li>
+<li>Lace system closure</li>
+<li>Moulded shape for comfortable fit</li>
+<li>High level shock absorption</li>
+<li>High quality Dull PVC</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016185418066</id>
+      <title>S</title>
+      <s:price currency="GBP">35.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016185418066</id>
+      <title>M</title>
+      <s:price currency="GBP">35.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016185418066</id>
+      <title>L</title>
+      <s:price currency="GBP">35.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016185418066</id>
+      <title>XL</title>
+      <s:price currency="GBP">35.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rhinofightgear.uk/products/10016184664402</id>
+    <published>2025-04-04T01:24:37-04:00</published>
+    <updated>2025-04-04T01:24:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://rhinofightgear.uk/products/boxing-gloves-long-design-twins-with-embroidey-pattern"/>
+    <title>BOXING GLOVES ( LONG DESIGN TWINS WITH EMBROIDEY PATTERN)</title>
+    <s:type></s:type>
+    <s:vendor>Rhino FightGear UK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0955/5817/3010/files/Picsture1.png?v=1743744226"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rhino FightGear UK<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            199.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>100% hand made</p>
+<p>Cowhide Leather</p>
+<p>Foam padding</p>
+<p>Printed Rhino logos</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016184664402</id>
+      <title>Default Title</title>
+      <s:price currency="GBP">199.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rhinofightgear.uk/products/10016183419218</id>
+    <published>2025-04-04T01:20:57-04:00</published>
+    <updated>2025-04-04T01:20:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://rhinofightgear.uk/products/bag-gloves"/>
+    <title>BAG GLOVES</title>
+    <s:type></s:type>
+    <s:vendor>Rhino FightGear UK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0955/5817/3010/files/BagGloves-Hatch_RedRhinoFightGear.png?v=1743851523"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rhino FightGear UK<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            149.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>100% Hand made</p>
+<p>Made with hight quality Dull PVC</p>
+<p><span>Printed Rhino logos</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10016183419218</id>
+      <title>Default Title</title>
+      <s:price currency="GBP">149.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rhinofightgear.uk/products/10014540890450</id>
+    <published>2025-04-03T08:38:20-04:00</published>
+    <updated>2025-04-03T08:38:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://rhinofightgear.uk/products/head-gear-cheek-protection"/>
+    <title>HEAD GEAR ( CHEEK PROTECTION)</title>
+    <s:type></s:type>
+    <s:vendor>Rhino FightGear UK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0955/5817/3010/files/Pictu1re1.png?v=1743683853"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rhino FightGear UK<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            199.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>100% Hand made</p>
+<p>Made with hight quality Dull PVC</p>
+<p><span>Printed Rhino logos</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10014540890450</id>
+      <title>Default Title</title>
+      <s:price currency="GBP">199.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rhinofightgear.uk/products/10014520213842</id>
+    <published>2025-04-03T08:34:42-04:00</published>
+    <updated>2025-04-03T08:34:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://rhinofightgear.uk/products/shin-guard-mma"/>
+    <title>SHIN GUARD (MMA)</title>
+    <s:type></s:type>
+    <s:vendor>Rhino FightGear UK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0955/5817/3010/files/ShinGuardsMMA-BlackRhinoFightGear.png?v=1743851018"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rhino FightGear UK<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            159.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>100% Hand made</p>
+<p>High quality Cowhide Leather</p>
+<p>Strong padding</p>
+<p>Lightweight</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10014520213842</id>
+      <title>Red / S</title>
+      <s:price currency="GBP">159.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10014520213842</id>
+      <title>Red / M</title>
+      <s:price currency="GBP">159.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10014520213842</id>
+      <title>Red / L</title>
+      <s:price currency="GBP">159.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10014520213842</id>
+      <title>Red / XL</title>
+      <s:price currency="GBP">159.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10014520213842</id>
+      <title>Black / S</title>
+      <s:price currency="GBP">159.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10014520213842</id>
+      <title>Black / M</title>
+      <s:price currency="GBP">159.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10014520213842</id>
+      <title>Black / L</title>
+      <s:price currency="GBP">159.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10014520213842</id>
+      <title>Black / XL</title>
+      <s:price currency="GBP">159.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rhinofightgear.uk/products/10014492361042</id>
+    <published>2025-04-03T08:31:27-04:00</published>
+    <updated>2025-04-03T08:31:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://rhinofightgear.uk/products/shin-guard-muaythai-1"/>
+    <title>SHIN GUARD ( MUAYTHAI)</title>
+    <s:type></s:type>
+    <s:vendor>Rhino FightGear UK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0955/5817/3010/files/Picture1.png?v=1743683478"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rhino FightGear UK<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            159.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-block">
+<div class="rte">
+<p>100% Hand made</p>
+<p>High quality Cowhide Leather</p>
+<p>Strong padding</p>
+<p>Lightweight</p>
+<p>Printed Rhino logos</p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10014492361042</id>
+      <title>Default Title</title>
+      <s:price currency="GBP">159.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rhinofightgear.uk/products/10014487544146</id>
+    <published>2025-04-03T08:27:14-04:00</published>
+    <updated>2025-04-03T08:27:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://rhinofightgear.uk/products/shin-guard-muaythai"/>
+    <title>SHIN GUARD ( MUAYTHAI)</title>
+    <s:type></s:type>
+    <s:vendor>Rhino FightGear UK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0955/5817/3010/files/Pictur1e1.png?v=1743683129"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rhino FightGear UK<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            159.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-block">
+<div class="rte">
+<p>100% Hand made</p>
+<p>High quality Dull PVC</p>
+<p>Strong padding</p>
+<p>Lightweight</p>
+<p>Printed Rhino logos</p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rhinofightgear.uk/products/10014487544146</id>
+      <title>Default Title</title>
+      <s:price currency="GBP">159.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
